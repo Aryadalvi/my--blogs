@@ -1,0 +1,27 @@
+h1{
+    font-family: preconnect;
+}
+body{
+    text-align: center;
+    background-color: beige;
+    
+}
+p{
+    font-family: sans-serif;
+}
+div{
+    margin-top: 15px;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+    
+}
+.style-section{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+img{
+    width: 300px;
+    height: 200px;
+}
